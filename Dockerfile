@@ -56,4 +56,4 @@ EXPOSE 80
 
 # CMD ["python2"]
 ENTRYPOINT ["python"]
-CMD ["index.py"]
+#CMD ["index.py"]
